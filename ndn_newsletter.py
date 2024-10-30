@@ -1,6 +1,7 @@
 import praw
 import time
 import os
+import scholarly
 
 from langchain.tools import tool
 from langchain_ollama import OllamaLLM
